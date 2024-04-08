@@ -1,0 +1,9 @@
+[submodule "ThodaCore"]
+	path = ThodaCore
+	url = https://github.com/ProjectKula/ThodaCore
+[submodule "Quadrangle"]
+	path = Quadrangle
+	url = https://github.com/ProjectKula/Quadrangle
+[submodule "R2-Public"]
+	path = R2-Public
+	url = https://github.com/ProjectKula/R2-Public
