@@ -1,0 +1,65 @@
+HTTP/2 200 
+date: Mon, 08 Apr 2024 19:23:10 GMT
+content-type: text/plain; charset=utf-8
+content-length: 721
+via: 1.1 google, 1.1 google
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: DYNAMIC
+server: cloudflare
+cf-ray: 8714a15dbc6b11a8-MRS
+
+# Created by https://www.toptal.com/developers/gitignore/api/emacs
+# Edit at https://www.toptal.com/developers/gitignore?templates=emacs
+
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# flymake-mode
+*_flymake.*
+
+# eshell files
+/eshell/history
+/eshell/lastdir
+
+# elpa packages
+/elpa/
+
+# reftex files
+*.rel
+
+# AUCTeX auto folder
+/auto/
+
+# cask packages
+.cask/
+dist/
+
+# Flycheck
+flycheck_*.el
+
+# server auth directory
+/server/
+
+# projectiles files
+.projectile
+
+# directory configuration
+.dir-locals.el
+
+# network security
+/network-security.data
+
+
+# End of https://www.toptal.com/developers/gitignore/api/emacs
